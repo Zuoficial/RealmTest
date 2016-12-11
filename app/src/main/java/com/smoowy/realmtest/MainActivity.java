@@ -12,6 +12,8 @@ import io.realm.RealmResults;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    // Version 2 
+
     Realm mRealm;
     RealmResults<MonieDB> results;
     Button mMostrar, mBorrar, mAgregar;
