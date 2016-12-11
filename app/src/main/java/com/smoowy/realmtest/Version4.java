@@ -1,6 +1,6 @@
 package com.smoowy.realmtest;
 
-public interface Version3 {
+public interface Version4 {
 
      String Jamon();
 }
