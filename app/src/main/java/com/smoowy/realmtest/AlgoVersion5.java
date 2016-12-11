@@ -1,4 +1,4 @@
 package com.smoowy.realmtest;
 
-public interface AlgoVersion4 {
+public interface AlgoVersion5 {
 }
